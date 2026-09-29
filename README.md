@@ -1,5 +1,6 @@
 # KhananDrishti AI
-
+## SIH26024
+<p>Live - https://khanandrishti-ai-nine.vercel.app/</p>
 KhananDrishti AI Smart Mine Governance is a full-stack concept implementation for Smart India Hackathon problem statement SIH26024, **AI-Based Smart Governance and Compliance Monitoring System for Coal Mines**.
 
 The problem statement calls for a centralized governance platform that integrates statutory compliance, inspections, safety observations, production reporting, contractor management, worker activity, regulatory reporting, field reporting, automated workflows and analytics across multiple mines and subsidiaries.
